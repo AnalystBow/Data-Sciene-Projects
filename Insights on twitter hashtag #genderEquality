@@ -1,0 +1,9 @@
+This project focus on one particular social media platform Twitter.
+
+Twitter data can be accessed a lot of ways, one of which is through application program interface (API). The analytics combines two types of analytics (or research technique). 
+Descriptive analytics and content analytics, both focused on different dimensions in the analysis of Twitter data. 
+The data collected for this analysis was #27,041 tweets including its metadata which were collected around the specific hashtag #genderEquality. 
+The findings are explained in an organized format around two questions:
+
+1.    What are the topics discussed by people promoting twitter hashtag #genderEquality?
+2.    What is the range of sentiments around the hashtag gender equality and what kind of tweets tend to contain sentiments? 
